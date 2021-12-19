@@ -1,2 +1,2 @@
-# TSF_DSIntern_Task_1
-It is the task-1 of  Sparks Foundation Data Science Internship, December 2021
+# TSF_DSIntern_Tasks
+It is a repository of all the tasks done by Ayaan Gani in Sparks Foundation Data Science Internship, December 2021.
